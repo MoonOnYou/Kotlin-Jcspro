@@ -21,11 +21,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="if.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="if.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/if.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state relative-caret-position="-23">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="when.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/when.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -44,6 +53,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/is and notIs.kt" />
         <option value="$PROJECT_DIR$/src/if.kt" />
+        <option value="$PROJECT_DIR$/src/when.kt" />
       </list>
     </option>
   </component>
@@ -91,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.IfKt">
+  <component name="RunManager" selected="Kotlin.WhenKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -131,6 +141,16 @@
       <option name="MAIN_CLASS_NAME" value="IsIsInstanceofAtJavaKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
+    <configuration name="WhenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="execution_control" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="WhenKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -156,9 +176,11 @@
     <list>
       <item itemvalue="Kotlin.IsIsInstanceofAtJavaKt" />
       <item itemvalue="Kotlin.IfKt" />
+      <item itemvalue="Kotlin.WhenKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.IfKt" />
         <item itemvalue="Kotlin.IsIsInstanceofAtJavaKt" />
       </list>
@@ -189,7 +211,7 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32957393" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32957393" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -222,8 +244,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/if.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="-23">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/when.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
