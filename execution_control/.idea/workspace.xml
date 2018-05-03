@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="is and notIs.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/is and notIs.kt">
+      <file leaf-file-name="isIsInsstanceofatJava.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/isIsInsstanceofatJava.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -58,6 +58,11 @@
               <item name="execution_control" type="b2602c69:ProjectViewProjectNode" />
               <item name="execution_control" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="execution_control" type="b2602c69:ProjectViewProjectNode" />
+              <item name="execution_control" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -96,14 +101,14 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Is_and_notIsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="IsIsInstanceofAtJavaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="execution_control" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Is_and_notIsKt" />
+      <option name="MAIN_CLASS_NAME" value="IsIsInstanceofAtJavaKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -130,7 +135,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Is_and_notIsKt" />
+        <item itemvalue="Kotlin.IsIsInstanceofAtJavaKt" />
       </list>
     </recent_temporary>
   </component>
@@ -148,17 +153,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="-4" width="1539" height="904" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1539" y="-4" width="1539" height="904" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32957393" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32957393" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
@@ -182,10 +187,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/is and notIs.kt">
+    <entry file="file://$PROJECT_DIR$/src/isIsInsstanceofatJava.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
