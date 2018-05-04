@@ -1,7 +1,6 @@
 fun main(args: Array<String>) {
     whenUsage(2, 50, "서울시")
 }
-
 fun whenUsage(inputType: Int, score: Int, city: String) {
     when (inputType) {
         1 -> println("타입 -1")
