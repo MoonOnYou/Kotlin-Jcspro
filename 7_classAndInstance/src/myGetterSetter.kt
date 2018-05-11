@@ -8,6 +8,8 @@ fun main(args: Array<String>) {
     println("${f1.name}, ${f1.tel}, ${f1.type}")        // #6
 }
 
+/// 이거 어떻게 자기의 게터세터를 알아보는거지?
+
 class MyFriend {
     var name: String = "??"
     get() {
